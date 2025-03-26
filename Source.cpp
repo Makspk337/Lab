@@ -17,6 +17,7 @@ float calculateArea(float length, float width) {
 float calculateDiagonal(float length, float width) {
   return sqrt(length * length + width * width);
 }
+//Comment
 
 int main() {
   float length, width;
